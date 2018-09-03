@@ -10,9 +10,6 @@ Apex Wrapper Salesforce Metadata API
 </a>
 
 
-gianc
-
-
 Documentation 
 -------------
 
